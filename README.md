@@ -1,1 +1,0 @@
-# BCG_simulation_data_science
