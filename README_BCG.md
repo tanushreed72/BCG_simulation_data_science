@@ -26,7 +26,6 @@ BCG was engaged to investigate this hypothesis, build a predictive churn model, 
 ├── Task_5_Modelling.ipynb            # Task 5 — Random Forest Modelling & Evaluation
 │
 ├── Task6_Executive_Abstract.pptx     # Task 6 — Steering Committee Presentation
-├── Task6_Executive_Abstract.pdf      # Task 6 — PDF export of presentation
 │
 └── README.md                         # This file
 ```
@@ -191,7 +190,7 @@ The root cause is **class imbalance** (~90% retained / ~10% churned): the model 
 
 ### Task 6 — Executive Abstract (Steering Committee Presentation)
 
-**Files:** `Task6_Executive_Abstract.pptx`, `Task6_Executive_Abstract.pdf`
+**Files:** `Task6_Executive_Abstract.pptx`
 
 A BCG-style 2-slide executive summary prepared for the Head of the SME Division and key client stakeholders.
 
